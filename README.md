@@ -1,6 +1,6 @@
 ## I'm evy
 
-- 🔭 ttabalhando com front-end
+- 🔭 trabalhando com front-end
 - 🌱 estudando typescript
 
 <div>
