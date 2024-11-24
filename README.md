@@ -1,6 +1,7 @@
 # Evy
 
-[![Gitter chat](https://badges.gitter.im/carlosjs23/Evy.png)](https://gitter.im/evy-dart/evy)
+[![Insta chat)
+https://www.instagram.com/evyblood/
 
 Evy is a Dart 2 Web Framework, with an ExpressJS like API.
 
